@@ -1,0 +1,41 @@
+>> HW1Q2
+    'Result For '    'Nofilter'
+
+Subject a Performance:0.66222
+Subject b Performance:0.63222
+Subject c Performance:0.51111
+Subject d Performance:0.56667
+Subject e Performance:0.71778
+Subject f Performance:0.65111
+Subject g Performance:0.61056
+Mean Performance:0.62167
+    'Result For '    'CAR'
+
+Subject a Performance:0.69833
+Subject b Performance:0.61611
+Subject c Performance:0.61611
+Subject d Performance:0.59611
+Subject e Performance:0.81389
+Subject f Performance:0.73167
+Subject g Performance:0.64222
+Mean Performance:0.67349
+    'Result For '    'LLaplacian'
+
+Subject a Performance:0.55
+Subject b Performance:0.63111
+Subject c Performance:0.655
+Subject d Performance:0.62611
+Subject e Performance:0.74222
+Subject f Performance:0.82167
+Subject g Performance:0.67722
+Mean Performance:0.6719
+    'Result For '    'SLaplacian'
+
+Subject a Performance:0.78444
+Subject b Performance:0.65111
+Subject c Performance:0.60778
+Subject d Performance:0.55611
+Subject e Performance:0.63722
+Subject f Performance:0.82222
+Subject g Performance:0.71278
+Mean Performance:0.68167
