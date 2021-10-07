@@ -3,4 +3,4 @@
 - HW2 : TRCSP
 - HW3 : FBCSP
 - Final project : Optimizing the Channel Selection and Classification Accuracy in EEG-Based BCI
-    * reports are in persion
+    * reports are in Persian
